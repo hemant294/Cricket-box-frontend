@@ -1,0 +1,41 @@
+.logo {
+  width: 30%;
+  height: 30%;
+}
+
+.forget-bt {
+  text-decoration: none;
+}
+
+.forget-bt:hover {
+  text-decoration: underline;
+}
+
+.logn-btn {
+  width: 80%;
+  margin-left: 10%;
+  padding: 5px;
+  justify-content: center;
+  line-height: 1.5;
+}
+
+.form-floating>.form-control{
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #000;
+    padding-left: 0.2em !important;
+}
+
+.form-floating>.form-control:focus{
+    box-shadow: none;
+    border-color: red;
+}
+
+.form-floating>.form-control + label{
+    padding-left: 0px;
+    padding-top: 25px;
+}
+
+.star{
+    color: red;
+}

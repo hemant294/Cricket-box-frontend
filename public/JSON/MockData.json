@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "mId": 1,
+        "title": "Today Match",
+        "status": true,
+        "statusStr": null,
+        "statusNote": null,
+        "oddsAvailable": null,
+        "startTime": null,
+        "endTime": null,
+        "result": null,
+        "winMargine": null,
+        "winningTeamId": null,
+        "latestInningNumber": null,
+        "compitionId": null,
+        "teamA": {
+            "id": 111,
+            "tId": 111,
+            "name": "Mumbai Indians",
+            "shortName": "MI",
+            "logoUrl": null,
+            "scoresFull": "183/8 (18 ov)",
+            "scores": 183,
+            "overs": 18,
+            "matchId": 11,
+            "mId": 1
+        },
+        "teamB": {
+            "id": 222,
+            "tId": 222,
+            "name": "Rajasthan Royals",
+            "shortName": "RR",
+            "logoUrl": null,
+            "scoresFull": "145/10 (14.2 ov)",
+            "scores": 145,
+            "overs": 14.2,
+            "matchId": 11,
+            "mId": 1
+        },
+        "teamAOdds": {
+            "id": 1111,
+            "liveOddsType": null,
+            "back": 1.72,
+            "lay": 1.78,
+            "backVolume": null,
+            "layVolume": null,
+            "matchId": 11,
+            "mId": 1
+        },
+        "teamBOdds": {
+            "id": 2222,
+            "liveOddsType": null,
+            "back": 1.78,
+            "lay": 1.42,
+            "backVolume": null,
+            "layVolume": null,
+            "matchId": 11,
+            "mId": 1
+        }
+    },
+    {
+        "id": 2,
+        "mId": 2,
+        "title": "Indore Match",
+        "status": true,
+        "statusStr": null,
+        "statusNote": null,
+        "oddsAvailable": null,
+        "startTime": null,
+        "endTime": null,
+        "result": null,
+        "winMargine": null,
+        "winningTeamId": null,
+        "latestInningNumber": null,
+        "compitionId": null,
+        "teamA": {
+            "id": 112,
+            "tId": 112,
+            "name": "Channi Super Kings",
+            "shortName": "CSK",
+            "logoUrl": null,
+            "scoresFull": "154/8 (19 ov)",
+            "scores": 154,
+            "overs": 19,
+            "matchId": 12,
+            "mId": 1
+        },
+        "teamB": {
+            "id": 223,
+            "tId": 223,
+            "name": "Gujrat Titians",
+            "shortName": "GT",
+            "logoUrl": null,
+            "scoresFull": "167/4 (20 ov)",
+            "scores": 167,
+            "overs": 20,
+            "matchId": 12,
+            "mId": 1
+        },
+        "teamAOdds": {
+            "id": 1112,
+            "liveOddsType": null,
+            "back": 1.72,
+            "lay": 1.71,
+            "backVolume": null,
+            "layVolume": null,
+            "matchId": 12,
+            "mId": 1
+        },
+        "teamBOdds": {
+            "id": 2223,
+            "liveOddsType": null,
+            "back": 1.70,
+            "lay": 1.42,
+            "backVolume": null,
+            "layVolume": null,
+            "matchId": 12,
+            "mId": 1
+        }
+    }
+]

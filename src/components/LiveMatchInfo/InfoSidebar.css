@@ -1,0 +1,74 @@
+.header-leftbar {
+  position: fixed !important;
+  top: 65px;
+  overflow: hidden;
+}
+
+.YourBet {
+  text-align: center;
+  padding: 22px;
+  border-bottom: 1px solid #f5f4f1;
+}
+
+.YourBet > h5 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.no-bet {
+  padding: 30px 0px;
+  text-align: center;
+  height: 485px;
+}
+
+.add-bet-icon {
+  margin: 20px 0px 10px 0px !important;
+}
+
+.add-bet-icon > .cart-icon {
+  height: 30px;
+  width: 30px;
+  color: #7b756b;
+}
+
+.empty {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.odd-text {
+  padding: 0px 2px;
+}
+
+.odd-text > p {
+  font-size: 16px;
+  font-weight: 300;
+  padding: 0px 0px 20px;
+  margin-bottom: 0px;
+}
+
+.left-scroll {
+  width: 100%;
+  height: 485px;
+  overflow-y: scroll;
+}
+
+.left-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.left-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.bet-show-data {
+  padding: 10px;
+  margin: 10px 0px;
+  border-radius: 10px;
+  width: 285px;
+}
+
+.win {
+  right: 0px;
+}

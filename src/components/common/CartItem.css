@@ -1,0 +1,90 @@
+.cart-head {
+  background-color: var(--color-cartbackground);
+}
+
+.cart-first {
+  border-bottom: 1px solid rgb(238, 240, 240);
+  padding: 10px;
+}
+
+.cart-second {
+  padding: 10px;
+  align-items: center;
+}
+
+.cart-teamName > span {
+  font-weight: 400;
+}
+
+.cart-oddValue > span {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.cart-third {
+  padding: 10px;
+}
+
+.cart-third > span {
+  font-weight: 500;
+}
+
+.first-compo {
+  padding-bottom: 20px;
+}
+
+.border-forth {
+  height: 2px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.cart-fifth > input {
+  height: 35px;
+  padding: 0px 10px;
+}
+
+.cart-fifth > input:focus,
+input:hover {
+  border: 0.5px solid #f30f0f;
+  border-color: #f30f0f;
+}
+
+.amount-fatched {
+  min-width: 32px;
+  height: 24px;
+}
+
+.amount-fatched > span {
+  font-size: 12px;
+  border-radius: 100px;
+  font-weight: 500;
+  justify-content: center;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,13 @@
+.bet-head{
+    height: 25px;
+    align-items: center;
+}
+
+.border-top{
+    border-top: 1px solid rgb(228, 226, 226);
+    margin-left: 10px;
+}
+
+.align-middel{
+    align-items: center;
+}

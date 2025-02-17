@@ -1,0 +1,10 @@
+.active{
+    color: #dc3023 !important;
+    border-bottom: 2px solid #dc3023 !important;
+}
+
+.nav-link{
+    margin: 0px 0px 0px 16px!important;
+    padding: 16px 0px!important;
+    height: 100% !important;
+}

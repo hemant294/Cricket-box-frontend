@@ -1,0 +1,25 @@
+.yourbet-main{
+    background-color: var(  --color-neutral-0);
+    border-radius: 10px;
+}
+
+.yourbetLive-head{
+    padding: 10px;
+    border-bottom: 1px solid #f5f4f1;
+}
+
+.yourbetLive-head .win-span{
+    font-weight: 500;
+}
+
+.yourbetLive-body{
+    padding: 10px;
+}
+
+.betAmount{
+    padding: 10px 0px;
+}
+
+.betPotential-Amount{
+    padding: 5px 0px 10px 0px;
+}
